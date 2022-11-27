@@ -1,2 +1,2 @@
 # Dissertation
-This repository contains Implementation and Experiments supporting the Dissertation Research.
+This repository contains Experiments carried out that are supporting the Dissertation Research.
